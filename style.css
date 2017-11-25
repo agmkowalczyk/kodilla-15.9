@@ -1,0 +1,40 @@
+body {
+	background: #eaeaea;
+	font-family: sans-serif;
+}
+
+#root {
+	width: 50%;
+	margin: 15px auto;
+}
+
+form {
+	text-align: center;
+}
+label {
+	font-size: 1.5em;
+	display: block;
+	margin: 5px;
+}
+
+.users {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.users div{
+	float: left;
+	padding: 15px;
+}
+
+
+.users a {
+	text-decoration: none;
+	color: #333;
+	display: block;
+}
+
+.users a:hover {
+	color: lightgrey;
+}
+
